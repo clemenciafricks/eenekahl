@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohgiexengo.marcoceresa.com/sitemap.xml
